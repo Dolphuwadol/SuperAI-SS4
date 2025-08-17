@@ -1,4 +1,4 @@
-# 🏆 Hackathon – Super AI Engineer Development Program Season4
+## 🏆 Hackathon – Super AI Engineer Development Program Season 4
 
 | Folder Name                                   | Hackathon                                 | Competition Link |
 |-----------------------------------------------|-------------------------------------------------|------------------|
