@@ -1,2 +1,4 @@
-# SuperAI-SS4
-Super AI Engineer Development Program Season 4
+# 🏆 Hackathon - Legal Act Classification
+
+Code and experiments from **Hackathon SuperAI Season 4**  
+- Kaggle competition: https://www.kaggle.com/competitions/legal-act-classification
